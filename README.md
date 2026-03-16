@@ -1,6 +1,6 @@
 # @philiprehberger/ts-config-layer
 
-[![CI](https://github.com/philiprehberger/ts-config-layer/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-config-layer/actions/workflows/ci.yml)
+[![CI](https://github.com/philiprehberger/ts-config-layer/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/ts-config-layer/actions/workflows/publish.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/ts-config-layer.svg)](https://www.npmjs.com/package/@philiprehberger/ts-config-layer)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-config-layer)](LICENSE)
 
@@ -78,6 +78,15 @@ const schema = {
 | `required` | `boolean` | `true` | Throw if missing |
 | `default` | `string \| number \| boolean` | — | Default value |
 | `env` | `string` | — | Override env var name |
+
+
+## Development
+
+```bash
+npm install
+npm run build
+npm test
+```
 
 ## License
 
