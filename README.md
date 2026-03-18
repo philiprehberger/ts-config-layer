@@ -4,7 +4,7 @@
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/ts-config-layer.svg)](https://www.npmjs.com/package/@philiprehberger/ts-config-layer)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-config-layer)](LICENSE)
 
-Layered configuration loader with typed output and multiple sources.
+Layered configuration loader with typed output and multiple sources
 
 ## Installation
 
