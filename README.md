@@ -1,6 +1,6 @@
 # @philiprehberger/ts-config-layer
 
-[![CI](https://github.com/philiprehberger/ts-config-layer/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/ts-config-layer/actions/workflows/publish.yml)
+[![CI](https://github.com/philiprehberger/ts-config-layer/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-config-layer/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/ts-config-layer.svg)](https://www.npmjs.com/package/@philiprehberger/ts-config-layer)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-config-layer)](LICENSE)
 
