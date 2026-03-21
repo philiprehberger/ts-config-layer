@@ -1,5 +1,5 @@
 {
-  "name": "@philiprehberger/ts-config-layer",
+  "name": "@philiprehberger/config-layer",
   "version": "0.1.4",
   "description": "Layered configuration loader with typed output and multiple sources",
   "type": "module",

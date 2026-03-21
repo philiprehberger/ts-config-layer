@@ -1,7 +1,7 @@
-# @philiprehberger/ts-config-layer
+# @philiprehberger/config-layer
 
 [![CI](https://github.com/philiprehberger/ts-config-layer/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-config-layer/actions/workflows/ci.yml)
-[![npm version](https://img.shields.io/npm/v/@philiprehberger/ts-config-layer.svg)](https://www.npmjs.com/package/@philiprehberger/ts-config-layer)
+[![npm version](https://img.shields.io/npm/v/@philiprehberger/config-layer.svg)](https://www.npmjs.com/package/@philiprehberger/config-layer)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-config-layer)](LICENSE)
 
 Layered configuration loader with typed output and multiple sources
@@ -9,13 +9,13 @@ Layered configuration loader with typed output and multiple sources
 ## Installation
 
 ```bash
-npm install @philiprehberger/ts-config-layer
+npm install @philiprehberger/config-layer
 ```
 
 ## Usage
 
 ```ts
-import { loadConfig, envSource, objectSource } from '@philiprehberger/ts-config-layer';
+import { loadConfig, envSource, objectSource } from '@philiprehberger/config-layer';
 
 const config = loadConfig({
   port: { type: 'number', default: 3000 },
