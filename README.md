@@ -1,9 +1,8 @@
 # @philiprehberger/config-layer
 
-[![CI](https://github.com/philiprehberger/ts-config-layer/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-config-layer/actions/workflows/ci.yml)
+[![CI](https://github.com/philiprehberger/config-layer/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/config-layer/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/config-layer.svg)](https://www.npmjs.com/package/@philiprehberger/config-layer)
-[![License](https://img.shields.io/github/license/philiprehberger/ts-config-layer)](LICENSE)
-[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/config-layer)](https://github.com/philiprehberger/config-layer/commits/main)
 
 Layered configuration loader with typed output and multiple sources
 
@@ -80,7 +79,6 @@ const schema = {
 | `default` | `string \| number \| boolean` | — | Default value |
 | `env` | `string` | — | Override env var name |
 
-
 ## Development
 
 ```bash
@@ -89,6 +87,24 @@ npm run build
 npm test
 ```
 
+## Support
+
+If you find this project useful:
+
+⭐ [Star the repo](https://github.com/philiprehberger/config-layer)
+
+🐛 [Report issues](https://github.com/philiprehberger/config-layer/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+
+💡 [Suggest features](https://github.com/philiprehberger/config-layer/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+
+❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
+
+🌐 [All Open Source Projects](https://philiprehberger.com/open-source-packages)
+
+💻 [GitHub Profile](https://github.com/philiprehberger)
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/philiprehberger)
+
 ## License
 
-MIT
+[MIT](LICENSE)
