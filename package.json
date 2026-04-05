@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/config-layer",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Layered configuration loader with typed output and multiple sources",
   "type": "module",
   "main": "./dist/index.cjs",
